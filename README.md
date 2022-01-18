@@ -1,5 +1,5 @@
 # test-git-workshop-repo
 
 ## Name
-Melody
-Chris
+Melody\n
+Chris\n
